@@ -1,4 +1,4 @@
-нbody {
+body {
     background-color: #E7F2EF;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #333;
@@ -425,7 +425,7 @@ details.centered table {
     background-color: #F8FAFB;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.06);
-    height: 245px;
+    height: 260px;
     overflow-y: auto;
     box-sizing: border-box;
 }
